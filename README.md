@@ -1,2 +1,6 @@
 # oligonucleotides-kinetics
-IPython analysis notebooks for Markov state models of oligonucletides
+IPython notebooks for the Markov state models analysis of molecular dynamics simulations of RNA di-, tri-, and tetra-nucleotides.
+
+
+
+
