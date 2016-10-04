@@ -2,6 +2,12 @@
 
 IPython notebooks for the Markov state models analysis of molecular dynamics simulations of RNA di-, tri-, and tetra-nucleotides.
 
+### Content ###
+
+- dinucleotides.ipynb contains the analysis of the 8 dinucleotide systems (AC, CA, CC, AA at T=300K,277K);
+- trinucleotide.ipynb contains the analysis the trinucleotide AAA (T=300K)
+- tetranucleotide.ipynb contains the analysis of the tetranucleotide AAAA (T=275K)
+- .py files are included, containing various scripts and functions used in the notebooks for the analysis.
 
 ### Data download ###
 
@@ -22,5 +28,5 @@ Please cite this paper if you use any part of this material
 1) Jupyter Notebook
 http://jupyter.org/
 
-2) PyEMMA
-http://emma-project.org/latest/
+2) PyEMMA 2.2.6
+http://www.emma-project.org/v2.2.6/
