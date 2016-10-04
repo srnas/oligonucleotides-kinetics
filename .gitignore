@@ -3,3 +3,5 @@ MD-data
 MD-data*
 *~
 *.pyc
+*.pdb
+*.xtc
