@@ -19,7 +19,7 @@ https://drive.google.com/open?id=0B5ljL0_IChrSSlFqUlZYelVuLWc
 
 The results of this analysis have been published in
 
-Pinamonti, G., Zhao, J., Condon, D.E., Paul, F., Noe, F., Turner, D.H., Bussi, G., (2016) "Studying the kinetic properties of RNA oligonucleotides with Markov state models", submitted
+Pinamonti, G., Zhao, J., Condon, D.E., Paul, F., Noe, F., Turner, D.H., Bussi, G., (2016) "Studying the kinetic properties of RNA oligonucleotides with Markov state models", [J. Chem. Theory Comput., 2017, 13 (2), pp 926–934](http://dx.doi.org/10.1021/acs.jctc.6b00982)
 
 Please cite this paper if you use any part of this material
 
