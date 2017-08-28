@@ -12,8 +12,7 @@ IPython notebooks for the Markov state models analysis of molecular dynamics sim
 ### Data download ###
 
 Molecular dynamics trajectories can be downloaded from the following link
-https://drive.google.com/open?id=0B5ljL0_IChrSSlFqUlZYelVuLWc
-
+https://goo.gl/2HcQ5L
 
 ### Reference ###
 
@@ -25,8 +24,10 @@ Please cite this paper if you use any part of this material
 
 ### Software requirements ###
 
-1) Jupyter Notebook
+1) Python 2.7
+
+2) Jupyter Notebook
 http://jupyter.org/
 
-2) PyEMMA 2.2.6
+3) PyEMMA 2.2.6
 http://www.emma-project.org/v2.2.6/
